@@ -2,7 +2,7 @@
 // https://theweeklychallenge.org/blog/perl-weekly-challenge-263/
 
 /*
-% node ch-1.js
+$ node ch-1.js
 [ 1, 2 ]
 []
 [ 4 ]
